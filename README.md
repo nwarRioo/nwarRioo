@@ -1,10 +1,10 @@
 ### Всем привет 👋
-
+![best-job-ive-ever-had-fury](https://github.com/nwarRioo/nwarRioo/assets/141076692/d8aa82e9-3e39-4914-be72-b87fe2589d56)
 <!--
 **nwarRioo/nwarRioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![best-job-ive-ever-had-fury](https://github.com/nwarRioo/nwarRioo/assets/141076692/d8aa82e9-3e39-4914-be72-b87fe2589d56)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
